@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 12345678
+=======
+fbcxzbxceghzzbsbcarsg 
+>>>>>>> 6747bd9 (Update 3.txt)
