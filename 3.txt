@@ -2,4 +2,8 @@
 12345678
 =======
 fbcxzbxceghzzbsbcarsg 
+<<<<<<< HEAD
 >>>>>>> 6747bd9 (Update 3.txt)
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
