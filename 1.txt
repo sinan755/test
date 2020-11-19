@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcdefg
+=======
+12345678
+>>>>>>> origin/master
